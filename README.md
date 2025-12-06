@@ -5,6 +5,6 @@ A Software Engineering course project demonstrating Jira workflow management and
 **Project Lead**: falaqalwardy
 **Course**: SWE_441
 **GitHub Repository**: https://github.com/falaqalwardy/SWE_441
-**Jira Workspace**: https://falaqalwardy-swe-441.atlassian.net/
 
----
+**Jira Workspace**: https://falaqalwardy-swe-441.atlassian.net/
+..
